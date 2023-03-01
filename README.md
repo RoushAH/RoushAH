@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoushAH
 - 👀 I’m interested in apps, games, and barbeque
-- 🌱 I’m currently learning apps via Solar2D
+- 🌱 I’m currently learning AI via APIs
 - 💞️ I’m looking to collaborate on things
 - 📫 How to reach me ...
 
