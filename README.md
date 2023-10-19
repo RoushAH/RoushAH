@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoushAH
-- 👀 I’m interested in apps, games, and barbeque
-- 🌱 I’m currently learning AI via APIs
+- 👀 I’m interested in IOT, some ML, and barbeque
+- 🌱 I’m currently learning python to build embedded systems
 - 💞️ I’m looking to collaborate on things
 - 📫 How to reach me ...
 
